@@ -1,0 +1,3 @@
+basis_number : {'A': 25, 'T': 175, 'C': 25, 'G': 25}
+low_complex_seqs : 5
+gc_content : []
